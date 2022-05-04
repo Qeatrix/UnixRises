@@ -1,4 +1,4 @@
-# Foldery - My DotFiles Repo
+# Folderly - My DotFiles Repo
 
 <h3 align="center"> Hyprland </h3>
 
