@@ -57,7 +57,7 @@ colors:
     focus_match:
       foreground: '#000000'
       background: '#E040FB'
-    bar:
+    color.footer_bar:
       foreground: '#B388FF'
       background: '#121212'
   selection:
