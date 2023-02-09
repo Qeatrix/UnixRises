@@ -1,6 +1,6 @@
 # UnixRises - My DotFiles Repo For Rises
 
-<h3 align="center"> Hyprland 27.04.2022 </h3>
+<h3 align="center"> Hyprland 08.02.2023 </h3>
 
 ![image](images/Hyprland_8-02-2023.png)
 
