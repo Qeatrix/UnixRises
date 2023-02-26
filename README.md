@@ -7,11 +7,11 @@
 
 <h3 align="center"> [20.02.2023] Hyprland - Serenity </h3>
 
-<h4 align="center"> Bright </h4>
+<h4 align="center"> Light </h4>
 
-![image](images/[20-02-2023]_Hyprland_Serenity/Bright/screenshot_2023-02-20-010641.png)
+![image](images/[20-02-2023]_Hyprland_Serenity/Light/screenshot_2023-02-20-010641.png)
 
-![image](images/[20-02-2023]_Hyprland_Serenity/Bright/screenshot_2023-02-20-010120.png)
+![image](images/[20-02-2023]_Hyprland_Serenity/Light/screenshot_2023-02-20-010120.png)
 
 <h4 align="center"> Dark </h4>
 
