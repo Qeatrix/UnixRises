@@ -1,11 +1,11 @@
 # UnixRises - My DotFiles Repo For Rises
 
-<h3 align="center"> [08.02.2023] Hyprland - Dream Sources: LightBlue </h3>
+<h3 align="center"> [26.02.2023] Hyprland - Dream Sources: LightBlue </h3>
 
 ![image](images/[20-02-2023]_Hyprland_DreamSources-LightBlue/screenshot_2023-02-26-195434.png)
 
 
-<h3 align="center"> [08.02.2023] Hyprland - Serenity </h3>
+<h3 align="center"> [20.02.2023] Hyprland - Serenity </h3>
 
 <h4 align="center"> Bright </h4>
 
