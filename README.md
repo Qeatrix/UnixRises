@@ -4,6 +4,8 @@
 
 ![image](images/[20-02-2023]_Hyprland_DreamSources-LightBlue/screenshot_2023-02-26-195434.png)
 
+![image](images/[20-02-2023]_Hyprland_DreamSources-LightBlue/screenshot_2023-02-26-223217.png)
+
 
 <h3 align="center"> [20.02.2023] Hyprland - Serenity </h3>
 
