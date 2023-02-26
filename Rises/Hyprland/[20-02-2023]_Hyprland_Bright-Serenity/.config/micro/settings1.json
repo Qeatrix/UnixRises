@@ -1,0 +1,38 @@
+{
+    "autosu": true,
+    "basename": true,
+    "colorscheme": "whiteout",
+    "cursorline": false,
+    "diff": false,
+    "divchars": "│─",
+    "divreverse": false,
+    "ft:json": {
+        "tabsize": 4,
+        "tabstospaces": true
+    },
+    "ft:markdown": {
+        "tabsize": 4,
+        "tabstospaces": true
+    },
+    "ft:shell": {
+        "tabsize": 2,
+        "tabstospaces": true
+    },
+    "ft:yaml": {
+        "tabsize": 4,
+        "tabstospaces": true
+    },
+    "ftoptions": false,
+    "hlsearch": true,
+    "literate": false,
+    "mkparents": true,
+    "permbackup": true,
+    "rmtrailingws": true,
+    "ruler": false,
+    "savecursor": true,
+    "saveundo": true,
+    "scrollmargin": 1,
+    "status": false,
+    "statusline": false,
+    "tabsize": 8
+}

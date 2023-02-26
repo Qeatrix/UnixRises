@@ -1,0 +1,7 @@
+use-grammars = { only = ["c"] }
+
+[[language]]
+name = "c"
+config = { enable = true, lint = true, unstable = true }
+auto-format = true
+indent = { tab-width = 8, unit = " " }

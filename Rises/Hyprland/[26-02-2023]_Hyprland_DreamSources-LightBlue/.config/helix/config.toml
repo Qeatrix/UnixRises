@@ -1,0 +1,11 @@
+theme = "serenity-min-white"
+
+[editor]
+line-number = "relative"
+true-color = true
+bufferline = "multiple"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "block"
